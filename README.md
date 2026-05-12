@@ -1,16 +1,59 @@
-## Hi there 👋
+# Olá! Eu sou Felipe 👋
 
-<!--
-**felipesq0710/felipesq0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web e aplicações full stack.
 
-Here are some ideas to get you started:
+Atualmente estudando e desenvolvendo projetos utilizando:
+- JavaScript
+- React
+- Node.js
+- TypeScript
+- PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Tecnologias e ferramentas
+
+- JavaScript
+- React
+- Node.js
+- TypeScript
+- PostgreSQL
+- Git & GitHub
+- Prisma ORM
+- Tailwind CSS
+
+---
+
+# 📌 Projeto em destaque
+
+## 🔍 BuscaPneu
+
+Plataforma full stack para comparação e gerenciamento de cotações de pneus automotivos.
+
+### Funcionalidades
+- Dashboard com analytics
+- Sistema de autenticação
+- Comparador de pneus
+- API REST
+- Banco de dados PostgreSQL
+- Interface responsiva
+
+🔗 Repositório:
+https://github.com/felipesq0710/buscapneu
+
+---
+
+# 📚 Atualmente estudando
+
+- Desenvolvimento full stack
+- APIs REST
+- Banco de dados relacionais
+- TypeScript
+- Estruturação de projetos React
+- Backend com Node.js
+
+---
+
+# 📫 Contato
+
+- GitHub: https://github.com/felipesq0710
