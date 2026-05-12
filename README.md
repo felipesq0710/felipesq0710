@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe 👋
 
-Estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web e aplicações full stack.
+Formado em Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web e aplicações full stack.
 
 Atualmente estudando e desenvolvendo projetos utilizando:
 - JavaScript
