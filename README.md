@@ -1,6 +1,6 @@
 # Olá! Eu sou Felipe 👋
 
-Formado em Análise e Desenvolvimento de Sistemas, focado em desenvolvimento web e aplicações full stack.
+Desenvolvedor Full Stack | React • Node.js • TypeScript • PostgreSQL | Construindo aplicações web escaláveis
 
 Atualmente estudando e desenvolvendo projetos utilizando:
 - JavaScript
