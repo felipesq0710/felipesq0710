@@ -1,87 +1,98 @@
-Olá! Eu sou Felipe
+# Olá! Eu sou Felipe
 
-Desenvolvedor Full Stack
+## Desenvolvedor Full Stack
 React • TypeScript • Node.js • PostgreSQL
 
-Desenvolvo aplicações web com foco em interfaces modernas,
-APIs REST, integração com bancos de dados e boas práticas
-de desenvolvimento.
+Formado em Análise e Desenvolvimento de Sistemas, desenvolvo aplicações web com foco em interfaces modernas, APIs REST, integração com bancos de dados e boas práticas de desenvolvimento.
 
-🚀 Tecnologias
+## Tecnologias
 
-Frontend
-• React
-• TypeScript
-• JavaScript
-• Vite
-• Tailwind CSS
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- Vite
+- Tailwind CSS
+- React Router
+- React Hook Form
+- Zod
+- Axios
+- TanStack Query
+- Recharts
+- Framer Motion
 
-Backend
-• Node.js
-• Express
-• TypeScript
-• Prisma ORM
+### Backend
+- Node.js
+- Express
+- TypeScript
+- Prisma ORM
+- JWT
+- Bcrypt
 
-Banco de dados
-• PostgreSQL
+### Banco de dados
+- PostgreSQL
 
-Ferramentas
-• Git
-• GitHub
-• Vercel
-• Render
+### Mobile
+- Flutter
+- Dart
 
-📌 Projetos em destaque
+### Ferramentas
+- Git
+- GitHub
+- Vercel
+- Render
 
-🚗 DriveControl
+## Projetos em destaque
 
-Plataforma web para motoristas de aplicativo controlarem
-receitas, despesas, quilômetros rodados e lucro.
+### DriveControl
 
-• Dashboard financeiro
-• Registro diário
-• Controle de despesas
-• Estatísticas e gráficos
-• Comparação mensal
-• Metas financeiras
-• Autenticação JWT
-• API REST
-• PostgreSQL
+Plataforma web em produção para motoristas de aplicativo controlarem receitas, despesas, quilômetros rodados e lucro.
 
-🔗 Demo: https://drivecontrol-indol.vercel.app/
-🔗 Código: https://github.com/felipesq0710/DriveControl
+- Dashboard financeiro
+- Registro diário
+- Controle de despesas
+- Estatísticas e gráficos
+- Comparação mensal
+- Metas financeiras
+- Autenticação JWT
+- API REST
+- PostgreSQL
+- Interface responsiva
+- Deploy em produção
 
-🔍 BuscaPneu
+**Demo:** https://drivecontrol-indol.vercel.app/  
+**Código:** https://github.com/felipesq0710/DriveControl
 
-Plataforma full stack para comparação e gerenciamento de
-cotações de pneus automotivos.
+### BuscaPneu
 
-• Dashboard
-• Autenticação
-• Comparador de pneus
-• API REST
-• PostgreSQL
-• Interface responsiva
+Plataforma full stack para comparação e gerenciamento de cotações de pneus automotivos.
 
-🔗 Código: https://github.com/felipesq0710/buscapneu
+- Dashboard com analytics
+- Sistema de autenticação
+- Comparador de pneus
+- API REST
+- PostgreSQL
+- Interface responsiva
 
-📱 Gym App
+**Código:** https://github.com/felipesq0710/buscapneu
 
-Aplicação desenvolvida em Flutter para gerenciamento
-de funcionalidades relacionadas a academia.
+### Gym App
 
-🔗 Código: https://github.com/felipesq0710/gym-app-flutter
+Aplicação desenvolvida em Flutter para gerenciamento de funcionalidades relacionadas a academia.
 
-📚 Atualmente estudando
+**Código:** https://github.com/felipesq0710/gym-app-flutter
 
-• Desenvolvimento Full Stack
-• React e TypeScript
-• APIs REST
-• Banco de dados relacionais
-• Arquitetura de aplicações
-• Boas práticas de desenvolvimento
+## Atualmente aprofundando conhecimentos
 
-📫 Contato
+- React e TypeScript
+- Desenvolvimento Full Stack
+- APIs REST
+- Banco de dados relacionais
+- Arquitetura de aplicações
+- Boas práticas de desenvolvimento
 
-GitHub: https://github.com/felipesq0710
-LinkedIn: https://www.linkedin.com/in/felipe-schneider-7890a31b3/
+## Contato
+
+**GitHub:** https://github.com/felipesq0710
+
+**LinkedIn:** https://www.linkedin.com/in/felipe-schneider-7890a31b3/
