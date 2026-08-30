@@ -1,59 +1,87 @@
-# Olá! Eu sou Felipe 👋
+Olá! Eu sou Felipe
 
-Desenvolvedor Full Stack | React • Node.js • TypeScript • PostgreSQL | Construindo aplicações web escaláveis
+Desenvolvedor Full Stack
+React • TypeScript • Node.js • PostgreSQL
 
-Atualmente estudando e desenvolvendo projetos utilizando:
-- JavaScript
-- React
-- Node.js
-- TypeScript
-- PostgreSQL
+Desenvolvo aplicações web com foco em interfaces modernas,
+APIs REST, integração com bancos de dados e boas práticas
+de desenvolvimento.
 
----
+🚀 Tecnologias
 
-# 🚀 Tecnologias e ferramentas
+Frontend
+• React
+• TypeScript
+• JavaScript
+• Vite
+• Tailwind CSS
 
-- JavaScript
-- React
-- Node.js
-- TypeScript
-- PostgreSQL
-- Git & GitHub
-- Prisma ORM
-- Tailwind CSS
+Backend
+• Node.js
+• Express
+• TypeScript
+• Prisma ORM
 
----
+Banco de dados
+• PostgreSQL
 
-# 📌 Projeto em destaque
+Ferramentas
+• Git
+• GitHub
+• Vercel
+• Render
 
-## 🔍 BuscaPneu
+📌 Projetos em destaque
 
-Plataforma full stack para comparação e gerenciamento de cotações de pneus automotivos.
+🚗 DriveControl
 
-### Funcionalidades
-- Dashboard com analytics
-- Sistema de autenticação
-- Comparador de pneus
-- API REST
-- Banco de dados PostgreSQL
-- Interface responsiva
+Plataforma web para motoristas de aplicativo controlarem
+receitas, despesas, quilômetros rodados e lucro.
 
-🔗 Repositório:
-https://github.com/felipesq0710/buscapneu
+• Dashboard financeiro
+• Registro diário
+• Controle de despesas
+• Estatísticas e gráficos
+• Comparação mensal
+• Metas financeiras
+• Autenticação JWT
+• API REST
+• PostgreSQL
 
----
+🔗 Demo: https://drivecontrol-indol.vercel.app/
+🔗 Código: https://github.com/felipesq0710/DriveControl
 
-# 📚 Atualmente estudando
+🔍 BuscaPneu
 
-- Desenvolvimento full stack
-- APIs REST
-- Banco de dados relacionais
-- TypeScript
-- Estruturação de projetos React
-- Backend com Node.js
+Plataforma full stack para comparação e gerenciamento de
+cotações de pneus automotivos.
 
----
+• Dashboard
+• Autenticação
+• Comparador de pneus
+• API REST
+• PostgreSQL
+• Interface responsiva
 
-# 📫 Contato
+🔗 Código: https://github.com/felipesq0710/buscapneu
 
-- GitHub: https://github.com/felipesq0710
+📱 Gym App
+
+Aplicação desenvolvida em Flutter para gerenciamento
+de funcionalidades relacionadas a academia.
+
+🔗 Código: https://github.com/felipesq0710/gym-app-flutter
+
+📚 Atualmente estudando
+
+• Desenvolvimento Full Stack
+• React e TypeScript
+• APIs REST
+• Banco de dados relacionais
+• Arquitetura de aplicações
+• Boas práticas de desenvolvimento
+
+📫 Contato
+
+GitHub: https://github.com/felipesq0710
+LinkedIn: https://www.linkedin.com/in/felipe-schneider-7890a31b3/
